@@ -63,7 +63,7 @@
     "@mui/system": "^5.1.0",
     "@mui/types": "^7.1.0",
     "@mui/utils": "^5.1.0",
-    "@popperjs/core": "^2.4.4",
+    "@popperjs/core": "^2.10.2",
     "@types/react-transition-group": "^4.4.4",
     "clsx": "^1.1.1",
     "csstype": "^3.0.9",
